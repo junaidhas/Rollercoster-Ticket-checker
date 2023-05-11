@@ -1,5 +1,5 @@
 # Rollercoster-Ticket-checker
-A simple program with if else to check height, age and calculate the ticket is the person is eligible
+A simple program with if else to check height, age and calculate the ticket price based on his age
 
 
 A simple roller coster ticket checker program with if-else, I have set the following conditions:
